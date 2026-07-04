@@ -1,7 +1,7 @@
 # Delicias Artesanais | Menu Online
 
 Menu online para apresentacao de produtos artesanais sem gluten e sem lactose.
-O projeto exibe bolos, paes e tortas em cards com imagem, descricao e preco.
+O projeto exibe bolos, pães e tortas em cards com imagem, descrição e preço.
 
 ## 📸 Demonstracao
 
