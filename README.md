@@ -5,7 +5,8 @@ O projeto exibe bolos, pães e tortas em cards com imagem, descrição e preço.
 
 ## Demonstração
 
-![Preview do menu online Delícias Artesanais](./images/demo.png)
+![Preview do menu online Delícias Artesanais](<img width="1018" height="533" alt="image" src="https://github.com/user-attachments/assets/28cca823-c566-4a30-9122-3cf2596af869" />
+)
 
 ## Tecnologias
 
