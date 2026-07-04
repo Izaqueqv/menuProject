@@ -1,63 +1,50 @@
-# Delicias Artesanais | Menu Online
+# Delícias Artesanais | Menu Online
 
-Menu online para apresentacao de produtos artesanais sem gluten e sem lactose.
-O projeto exibe bolos, paes e tortas em cards com imagem, descricao e preco.
+Menu online para apresentação de produtos artesanais sem glúten e sem lactose.
+O projeto exibe bolos, pães e tortas em cards com imagem, descrição e preço.
 
-## 📸 Demonstracao
+## Demonstração
 
-<img src="./images/delicias-artesanais-logo-no-wheat.png" alt="Preview do projeto">
+![Preview do menu online Delícias Artesanais](./images/demo.png)
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
-- Git
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- Interface responsiva
-- Design simples e moderno
-- Navegacao intuitiva
-- Filtros de produtos por categoria
-- Cards com imagem, descricao e preco
-- Destaque visual para a categoria ativa
+- Listagem de produtos em cards
+- Filtro por categoria: bolos, pães e tortas
+- Categoria de bolos carregada como visualização inicial
+- Destaque visual para o filtro ativo
+- Layout responsivo para telas menores
+- Botão de pedido em cada produto
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
-📂 menuSandra
- ├── 📂 images
- │   └── delicias-artesanais-logo-no-wheat.png
- ├── app.js
- ├── index.html
- ├── README.md
- └── style.css
+menuProject/
+|-- images/
+|   |-- delicias-artesanais-logo-no-wheat.png
+|   |-- bread01Crop.png
+|   |-- carrotCakeCrop.png
+|   |-- pie.png
+|   `-- ...
+|-- app.js
+|-- index.html
+|-- README.md
+`-- style.css
 ```
 
-## ▶️ Como executar
+## Projeto Online
 
-1. Clone o repositorio
+https://izaqueqv.github.io/menuProject
 
-```bash
-git clone https://github.com/izaqueqv/menuSandra.git
-```
+## Autor
 
-2. Acesse a pasta do projeto
+**Izaque Querino**
 
-```bash
-cd menuSandra
-```
-
-3. Abra o arquivo `index.html` no navegador.
-
-## 🌐 Projeto Online
-
-https://izaqueqv.github.io/menuSandra
-
-## 👨‍💻 Autor
-
-**Izaque Vieira**
-
-- GitHub: https://github.com/izaqueqv
+- GitHub: https://github.com/Izaqueqv
 - LinkedIn: https://linkedin.com/in/izaquequerino
