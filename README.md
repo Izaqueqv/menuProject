@@ -38,6 +38,17 @@ menuProject/
 `-- style.css
 ```
 
+## Como visualizar
+
+Clone o repositório e abra o arquivo `index.html` no navegador:
+
+```bash
+git clone https://github.com/Izaqueqv/menuProject.git
+cd menuProject
+```
+
+Como o projeto é estático, não é necessário instalar dependências, rodar build ou iniciar um servidor local.
+
 ## Projeto Online
 
 https://izaqueqv.github.io/menuProject
