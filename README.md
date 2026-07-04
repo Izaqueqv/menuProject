@@ -3,7 +3,7 @@
 Menu online para apresentacao de produtos artesanais sem gluten e sem lactose.
 O projeto exibe bolos, pães e tortas em cards com imagem, descrição e preço.
 
-## 📸 Demonstracao
+## 📸 Demonstração
 
 <img src="./images/delicias-artesanais-logo-no-wheat.png" alt="Preview do projeto">
 
@@ -57,7 +57,7 @@ https://izaqueqv.github.io/menuSandra
 
 ## 👨‍💻 Autor
 
-**Izaque Vieira**
+**Izaque Querino**
 
 - GitHub: https://github.com/izaqueqv
 - LinkedIn: https://linkedin.com/in/izaquequerino
