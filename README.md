@@ -3,10 +3,6 @@
 Menu online para apresentação de produtos artesanais sem glúten e sem lactose.
 O projeto exibe bolos, pães e tortas em cards com imagem, descrição e preço.
 
-## Demonstração
-
-![Preview do menu online Delícias Artesanais](<img width="1018" height="533" alt="Screenshot 2026-07-04 153226" src="https://github.com/user-attachments/assets/537c66a5-c350-4679-a07e-032482311d7d" />
-)
 ## Tecnologias
 
 - HTML5
